@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Brendanmebson
+- 👋 Hi, I’m Mebuge Kamsiyochukwu Brendan
 - React Frontend Developer and Aspiring Full stack Developer
+- React-Native Developer
 - 👀 I’m interested in Games, Tech and Sports
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
