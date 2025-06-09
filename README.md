@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Mebuge Kamsiyochukwu Brendan
-- React Frontend Developer and Aspiring Full stack Developer
+- MERN Fullstack Software Developer
+- React Developer
 - React-Native Developer
 - 👀 I’m interested in Games, Tech and Sports
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... brendanmebson@gmail.com or +2348155230994 
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me  brendanmebson@gmail.com or +2348155230994 
+- 😄 Pronouns: He
+- ⚡ Fun fact: I read comics
 
 <!---
 Brendanmebson/Brendanmebson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
