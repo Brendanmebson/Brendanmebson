@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Mebuge Kamsiyochukwu Brendan
 - MERN Fullstack Software Developer
+- Frontend Developer
+- Backend Developer
 - React Developer
 - React-Native Developer
 - 👀 I’m interested in Games, Tech and Sports
