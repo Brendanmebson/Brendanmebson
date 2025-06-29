@@ -1,14 +1,91 @@
-- 👋 Hi, I’m Mebuge Kamsiyochukwu Brendan
-- MERN Fullstack Software Developer
-- Frontend DeveloperAdd commentMore actions
-- Backend Developer
-- React Developer
-- React-Native Developer
-- 👀 I’m interested in Games, Tech and Sports
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me  brendanmebson@gmail.com or +2348155230994 
-- 😄 Pronouns: He
-- ⚡ Fun fact: I read comics
+# 🚀 Welcome to Mebuge's Digital Universe! 
+
+<div align="center">
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mebuge+Kamsiyochukwu+Brendan!;MERN+Stack+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8;Frontend+%26+Backend+Master;React+%26+React+Native+Expert;Always+Ready+to+Collaborate!)
+
+</div>
+
+## 🎯 About Me
+
+```javascript
+const mebuge = {
+   name: "Mebuge Kamsiyochukwu Brendan",
+   role: "Full Stack Software Developer",
+   superpowers: ["MERN Stack", "Frontend Magic", "Backend Wizardry"],
+   specialties: ["React ⚛️", "React Native 📱", "Node.js 🟢"],
+   passions: ["🎮 Gaming", "💻 Tech Innovation", "⚽ Sports"],
+   currentStatus: "Open for collaboration 🤝",
+   funFact: "Comic book enthusiast 📚🦸‍♂️"
+};
+🛠️ Tech Arsenal
+<div align="center">
+Frontend Mastery
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+Backend Power
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+</div>
+🎮 What Gets Me Excited
+<table>
+<tr>
+<td width="33%">
+🎮 Gaming
+Currently Playing:
+├── Strategy Games
+├── RPGs  
+└── Indie Titles
+</td>
+<td width="33%">
+💻 Technology
+Always Learning:
+├── New Frameworks
+├── Best Practices
+└── Industry Trends
+</td>
+<td width="33%">
+⚽ Sports
+Following:
+├── Football ⚽
+├── Basketball 🏀
+└── Esports 🎮
+</td>
+</tr>
+</table>
+🤝 Let's Build Something Amazing Together!
+<div align="center">
+💞️ I'm actively looking to collaborate on:
+
+🌟 Innovative Web Applications
+📱 Mobile App Development
+🎮 Gaming Projects
+🚀 Open Source Contributions
+💡 Startup Ideas
+
+</div>
+📬 Connect With The Developer
+<div align="center">
+https://img.shields.io/badge/Email-brendanmebson@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Phone-+234%208155230994-green?style=for-the-badge&logo=whatsapp&logoColor=white
+</div>
+⚡ Fun Facts About Me
+<div align="center">
+🦸‍♂️ Comic Book Reader | Marvel > DC (don't @ me!)
+🎯 Problem Solver by Day, Code Debugger by Night
+☕ Powered by Coffee and Curiosity
+🌍 Based in Nigeria, Coding for the World
+</div>
+
+<div align="center">
+"Code is like humor. When you have to explain it, it's bad." - Cory House
+https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge
+</div>
+```
 
 
 ## 🌐 Socials:
