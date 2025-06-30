@@ -11,7 +11,7 @@
 - Frontend Developer 💻
 - Backend Developer 🗂️
 - React Developer ⚛️
-- React-Native Developer ⚛
+- React-Native Developer 🎯
 - 👀 I’m interested in Games, Tech and Sports
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me  brendanmebson@gmail.com or +2348155230994 
