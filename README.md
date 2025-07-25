@@ -19,6 +19,12 @@
 
 
 
+### 📂 My Portfolio Vault
+[![Frontend](https://img.shields.io/badge/Frontend-Portfolio-blue?logo=react)](https://your-frontend-link.com)
+[![Backend](https://img.shields.io/badge/Backend-Portfolio-green?logo=node.js)](https://your-backend-link.com) 
+[![Full Stack](https://img.shields.io/badge/Full_Stack-Portfolio-purple?logo=javascript)](https://your-fullstack-link.com) 
+[![Mobile](https://img.shields.io/badge/Mobile-Portfolio-orange?logo=react)](https://your-mobile-link.com)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brendanmebson)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamsiyochukwu-mebuge)
