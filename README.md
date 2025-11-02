@@ -9,21 +9,18 @@
 
 ## 👋 Hi, I’m Mebuge Kamsiyochukwu Brendan
 
-- 👨‍💻 MERN Fullstack Software Developer  
-- 💻 Frontend Developer (⚛️ React & 🎯 React Native)  
-- 🗂️ Backend Developer (Node.js, Express, MongoDB)  
+- 👨‍💻 Software Engineer  
+- 💻 MERN Fullstack Developer 
+- 🗂️ Mobile Developer (React N)  
 - 👀 I’m passionate about Games, Tech, and Sports  
 - 🤝 Open to collaborating on **any meaningful project**  
-- 📫 Reach me at **brendanmebson@gmail.com** or **+234 815 523 0994**  
+- 📫 Collab: **brendanmebson@gmail.com**
 - ⚡ Fun Fact: I read comics more than I sleep sometimes 😅  
 
 
 
-### 📂 My Portfolio Vault
-[![Frontend](https://img.shields.io/badge/Frontend-Portfolio-blue?logo=react)](https://your-frontend-link.com)
-[![Backend](https://img.shields.io/badge/Backend-Portfolio-green?logo=node.js)](https://your-backend-link.com) 
-[![Full Stack](https://img.shields.io/badge/Full_Stack-Portfolio-purple?logo=javascript)](https://your-fullstack-link.com) 
-[![Mobile](https://img.shields.io/badge/Mobile-Portfolio-orange?logo=react)](https://your-mobile-link.com)
+### 📂 Portfolio Link
+[![Portfolio](https://img.shields.io/badge/My-Portfolio-blue?logo=react)](https://brendanmebson.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brendanmebson)
