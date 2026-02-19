@@ -103,9 +103,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="25" alt="linktree logo"  />
-  <a href="https://www.slack.com/Brendanmebson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="50" height="25" alt="slack logo"  />
-  </a>
+
 </div>
 
 ###
