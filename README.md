@@ -15,6 +15,7 @@
 </div>
 
 ###
+# <div align="left"> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -57,6 +58,7 @@
 </div>
 
 ###
+# <div align="left"> Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
@@ -85,48 +87,50 @@
 </div>
 
 ###
+# <div align="left"> Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kamsiyochukwu-mebuge" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.x.com/Brendanmebson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/Brendanmebson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="25" alt="youtube logo"  />
+  <a href="https://www.x.com/BR33NDAN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/Brendanmebson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.gmail.com/Brendanmebson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
+<a href="mailto:brendanmebson@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="25" alt="linktree logo"  />
-
+ <a href="https://www.linktr.ee/Brendanmebson" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="50" height="30" alt="linktree logo"  />
+ </a>
 </div>
+<br> 
+<br>
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brendanmebson/brendanmebson/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brendanmebson/brendanmebson/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brendanmebson/brendanmebson/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Brendanmebson&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Brendanmebson&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Brendanmebson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendanmebson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brendanmebson&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brendanmebson&limit=5&theme=dark&combine_all_yearly_contributions=true)
