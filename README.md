@@ -1,5 +1,5 @@
 
-# <div align="center"> 🚀 Welcome to Brendan's Digital Universe! 
+# <div align="center"> Welcome to Brendan's Digital Universe! 
 </div> 
 
 <div align="center">
